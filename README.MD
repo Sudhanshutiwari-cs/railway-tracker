@@ -9,7 +9,7 @@ A web application to track trains in India with real-time running status, seat a
 - Railway API (or mock data)
 
 ## 📦 Features
-- Live Train Running Status
+- Live Train Running Statusd
 - Seat Availability
 - PNR Status
 - Train Search & Schedules
